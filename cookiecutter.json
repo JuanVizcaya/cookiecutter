@@ -1,0 +1,9 @@
+{
+    "project_name": "My little project",
+    "project_slug": "my_little_project",
+    "all_hosts": 
+        [
+            "y",
+            "n"
+        ]
+}
